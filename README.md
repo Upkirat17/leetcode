@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Upkirat17/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/Upkirat17/leetcode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
