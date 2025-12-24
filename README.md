@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Upkirat17/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Upkirat17/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Upkirat17/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Upkirat17/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Upkirat17/leetcode/tree/master/0189-rotate-array) |
 | [2383-add-two-integers](https://github.com/Upkirat17/leetcode/tree/master/2383-add-two-integers) |
+## Greedy
+|  |
+| ------- |
+| [3334-apple-redistribution-into-boxes](https://github.com/Upkirat17/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+## Sorting
+|  |
+| ------- |
+| [3334-apple-redistribution-into-boxes](https://github.com/Upkirat17/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
