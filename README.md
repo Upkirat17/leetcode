@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Upkirat17/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Upkirat17/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Upkirat17/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/Upkirat17/leetcode/tree/master/2058-concatenation-of-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Upkirat17/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Upkirat17/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Two Pointers
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3334-apple-redistribution-into-boxes](https://github.com/Upkirat17/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Upkirat17/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Upkirat17/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
