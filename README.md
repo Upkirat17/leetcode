@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Upkirat17/leetcode/tree/master/1580-shuffle-the-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Upkirat17/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Upkirat17/leetcode/tree/master/2058-concatenation-of-array) |
+| [2479-meeting-rooms-iii](https://github.com/Upkirat17/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Upkirat17/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Upkirat17/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Two Pointers
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Upkirat17/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Upkirat17/leetcode/tree/master/0268-missing-number) |
+| [2479-meeting-rooms-iii](https://github.com/Upkirat17/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Upkirat17/leetcode/tree/master/0268-missing-number) |
+| [2479-meeting-rooms-iii](https://github.com/Upkirat17/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Upkirat17/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Upkirat17/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Upkirat17/leetcode/tree/master/2058-concatenation-of-array) |
+| [2479-meeting-rooms-iii](https://github.com/Upkirat17/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Upkirat17/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/Upkirat17/leetcode/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
