@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Upkirat17/leetcode/tree/master/1580-shuffle-the-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Upkirat17/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Upkirat17/leetcode/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Upkirat17/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/Upkirat17/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Upkirat17/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Upkirat17/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Upkirat17/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Upkirat17/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Upkirat17/leetcode/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Upkirat17/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Upkirat17/leetcode/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Upkirat17/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/Upkirat17/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Bit Manipulation
 |  |
