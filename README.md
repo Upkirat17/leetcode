@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Upkirat17/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Upkirat17/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Upkirat17/leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Upkirat17/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Upkirat17/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Upkirat17/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Upkirat17/leetcode/tree/master/0075-sort-colors) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Upkirat17/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Upkirat17/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Upkirat17/leetcode/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/Upkirat17/leetcode/tree/master/2383-add-two-integers) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Upkirat17/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Upkirat17/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Upkirat17/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Enumeration
