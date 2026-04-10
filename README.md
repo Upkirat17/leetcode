@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Upkirat17/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Upkirat17/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Upkirat17/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Upkirat17/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Upkirat17/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1580-shuffle-the-array](https://github.com/Upkirat17/leetcode/tree/master/1580-shuffle-the-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Upkirat17/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Upkirat17/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Upkirat17/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Upkirat17/leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Upkirat17/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2479-meeting-rooms-iii](https://github.com/Upkirat17/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Binary Search
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Upkirat17/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Upkirat17/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Heap (Priority Queue)
 |  |
