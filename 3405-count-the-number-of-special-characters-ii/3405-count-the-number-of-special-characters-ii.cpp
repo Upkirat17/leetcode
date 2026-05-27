@@ -1,33 +1,33 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        unordered_map<char,int> mp;
-        for(char ch:word){
-            char lower = tolower(ch);
+        vector<int> state(26, 0);
 
-            if(islower(ch)){
-                if(mp.find(lower)==mp.end()){
-                    mp[lower] = 1;
-                } else if(mp[lower]==2){
-                    mp[lower] = -1;
+        for (char ch : word) {
+            int idx = tolower(ch) - 'a';
+
+            if (islower(ch)) {
+                if (state[idx] == 0) {
+                    state[idx] = 1;
+                } else if (state[idx] == 2) {
+                    state[idx] = -1;
                 }
             }
 
             else {
-                if(mp.find(lower)==mp.end()){
-                    mp[lower] = -1;
-                } else if(mp[lower] == 1){
-                    mp[lower]=2;
+                if (state[idx] == 0) {
+                    state[idx] = -1;
+                } else if (state[idx] == 1) {
+                    state[idx] = 2;
                 }
             }
         }
         int count = 0;
-        for(auto it : mp) {
-            if(it.second == 2){
+        for (int x : state) {
+            if (x == 2) {
                 count++;
             }
         }
-
         return count;
     }
 };
