@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Upkirat17/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Upkirat17/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2479-meeting-rooms-iii](https://github.com/Upkirat17/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/Upkirat17/leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Upkirat17/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/Upkirat17/leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 ## Prefix Sum
 |  |
 | ------- |
