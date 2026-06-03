@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Upkirat17/leetcode/tree/master/1580-shuffle-the-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Upkirat17/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Upkirat17/leetcode/tree/master/2058-concatenation-of-array) |
+| [2245-destroying-asteroids](https://github.com/Upkirat17/leetcode/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Upkirat17/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/Upkirat17/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Upkirat17/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2245-destroying-asteroids](https://github.com/Upkirat17/leetcode/tree/master/2245-destroying-asteroids) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Upkirat17/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Upkirat17/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Sorting
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Upkirat17/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Upkirat17/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Upkirat17/leetcode/tree/master/0268-missing-number) |
+| [2245-destroying-asteroids](https://github.com/Upkirat17/leetcode/tree/master/2245-destroying-asteroids) |
 | [2479-meeting-rooms-iii](https://github.com/Upkirat17/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Upkirat17/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Upkirat17/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
