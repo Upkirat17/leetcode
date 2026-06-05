@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Upkirat17/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Upkirat17/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Upkirat17/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Upkirat17/leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Upkirat17/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Upkirat17/leetcode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Upkirat17/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Upkirat17/leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Upkirat17/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Upkirat17/leetcode/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Upkirat17/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Upkirat17/leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Upkirat17/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Upkirat17/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Upkirat17/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Upkirat17/leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Upkirat17/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Upkirat17/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Upkirat17/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Upkirat17/leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
 |  |
 | ------- |
